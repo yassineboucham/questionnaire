@@ -1,1 +1,2 @@
+cd $env:USERPROFILE\Desktop
 powershell -ExecutionPolicy Bypass -File .\config_client_windows.ps1
